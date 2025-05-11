@@ -1,8 +1,10 @@
 # Android-Studio-Unit-Converter
 
-# Quick OverView Of MainActivity.kt
+# Go To Original: [`MainActivity.kt`](app/src/main/java/eu/tutorials/unitconverter/MainActivity.kt) File.
+
+# Preview MainActivity.kt Code.
 ```kotlin
-ffpackage eu.tutorials.unitconverter
+package eu.tutorials.unitconverter
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
