@@ -1,4 +1,4 @@
-ffpackage eu.tutorials.unitconverter
+package eu.tutorials.unitconverter
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
